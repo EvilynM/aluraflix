@@ -1,0 +1,13 @@
+body{
+background: aliceblue;
+color: blue;
+}
+
+
+section {
+    background: lavenderblush;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
